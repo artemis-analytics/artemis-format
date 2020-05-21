@@ -31,6 +31,7 @@ requirements:
         - python=3.7.3
         - pip  # keep conda happy  
         - pkg-config
+        - protobuf
 test:
     imports:
         - artemis_format

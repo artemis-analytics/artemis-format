@@ -21,3 +21,5 @@ dependencies:
     - python=3.7.3
     - pkg-config
     - protobuf 
+    - anaconda-client
+    - conda-build
